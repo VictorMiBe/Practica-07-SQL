@@ -1,0 +1,1 @@
+SELECT LOWER(nombre), precio FROM producto;

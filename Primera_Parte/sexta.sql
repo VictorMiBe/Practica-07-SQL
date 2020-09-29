@@ -1,0 +1,1 @@
+SELECT UPPER(nombre), precio FROM producto;

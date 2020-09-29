@@ -1,0 +1,1 @@
+SELECT nombre, LEFT(nombre,2) FROM fabricante;

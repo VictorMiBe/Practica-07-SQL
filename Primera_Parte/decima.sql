@@ -1,0 +1,1 @@
+SELECT nombre, TRUNCATE(precio,0) FROM producto;

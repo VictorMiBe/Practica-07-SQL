@@ -1,0 +1,1 @@
+SELECT distinct codigo_fabricante FROM producto;
