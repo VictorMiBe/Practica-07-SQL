@@ -1,2 +1,2 @@
-SELECT nombre, TRUNCATE((precio*0.24),2), TRUNCATE((precio*0.28),2) FROM producto;
+SELECT nombre, precio, TRUNCATE((precio*1.17),2) FROM producto;
 

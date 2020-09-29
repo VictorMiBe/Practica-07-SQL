@@ -1,2 +1,2 @@
 SELECT nombre FROM producto 
-WHERE NOT precio >= 1678.35;
+WHERE NOT precio >= 400;
