@@ -1,1 +1,2 @@
-SELECT nombre, MIN(precio) FROM producto;
+SELECT nombre, MIN(precio) 
+FROM producto;

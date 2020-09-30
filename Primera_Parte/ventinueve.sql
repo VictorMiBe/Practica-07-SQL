@@ -1,1 +1,2 @@
-SELECT nombre, (precio * 100) centimos FROM producto;
+SELECT nombre, (precio * 100) centimos 
+FROM producto;

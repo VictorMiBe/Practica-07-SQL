@@ -1,1 +1,2 @@
-SELECT SUM(precio) FROM producto;
+SELECT SUM(precio) 
+FROM producto;

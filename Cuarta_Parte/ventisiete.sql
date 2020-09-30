@@ -7,4 +7,3 @@ FROM fabricante LEFT JOIN (
 	) nuevatabla
 ON fabricante.codigo = nuevatabla.codigo_fabricante
 ORDER BY total DESC
-    
